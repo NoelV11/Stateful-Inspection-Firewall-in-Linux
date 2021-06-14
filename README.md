@@ -51,6 +51,11 @@ There are few built-in chains that are included in tables. They are:
 
 ![5](https://user-images.githubusercontent.com/77625109/121911306-48a6d100-cd4d-11eb-8f79-e62d460a4bc7.png)
 
+## Testing Process
+
+
+Using the built prototype,we tested both acceptance and denial of packets from certain ip’s,protocols and ports,on four different Linux systems.For uniformity,10 observational instances were recorded and it’s average is taken as the percentage.The results are given below:-
+
 ## Insights
 
 These are the observations from our project:-

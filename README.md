@@ -39,6 +39,18 @@ There are few built-in chains that are included in tables. They are:
 
 ![5](https://user-images.githubusercontent.com/77625109/121907393-a46f5b00-cd49-11eb-948e-ed3adf5d3c32.png)
 
+- Rule 3-iptables -A INPUT -s 192.168.43.176 -p tcp --dport 22 -j ACCEPT 
+
+- Meaning-Accept all packets following tcp protocol,from the machine with IP=192.168.43.176, through the port 22(reserved for SSH) 
+
+![Screenshot 2021-06-14 202726](https://user-images.githubusercontent.com/77625109/121913522-19915f00-cd4f-11eb-83bb-8ae904dbfaa6.png)
+
+- Rule 4 -iptables --flush
+
+- Meaning-Empty all rules from the firewall.It will now resemble a default unconfigured firewall 
+
+![5](https://user-images.githubusercontent.com/77625109/121911306-48a6d100-cd4d-11eb-8f79-e62d460a4bc7.png)
+
 ## Insights
 
 These are the observations from our project:-

@@ -7,7 +7,7 @@ It is implemented using the Iptables framework of Linux. On this framework, syst
 ## Resources Used
 - CentOS Version 8 (It can be implemented on other flavours of Linux and is not restricted to CentOS alone)
 - Iptables Framework
-- https://www.netfilter.org/projects/iptables/index.html
+- [The netfilter.org iptables Project](https://www.netfilter.org/projects/iptables/index.html)
 - https://linux.die.net/man/8/iptables
 ## Firewall Chains 
 

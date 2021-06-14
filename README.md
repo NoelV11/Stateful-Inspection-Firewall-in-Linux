@@ -34,6 +34,7 @@ There are few built-in chains that are included in tables. They are:
 
 - Rule 2 -iptables -t filter -A OUTPUT -d 192.168.43.176 -j DROP
 -Meaning-Apply a rule to the OUTPUT chain to drop all packets destined for 192.168.43.76
+
 ![5](https://user-images.githubusercontent.com/77625109/121907393-a46f5b00-cd49-11eb-948e-ed3adf5d3c32.png)
 
 ## Insights

@@ -1,5 +1,8 @@
 # Stateful-Inspection-Firewall-in-Linux
-This firewall was designed by using Iptables framework of Linux. On this framework, system users can set commands to accept or reject incoming traffic. Further rules can be set, to classify packets from each other, based on port number, protocol followed, IP address etc. It is a method to enforce network security and can be implemented on any Linux kernel
+
+This firewall prototype was developed as my undergraduate project,in the domain of Cyber Security.
+
+It is implemented using the Iptables framework of Linux. On this framework, system users can set commands to accept or reject incoming traffic. Further rules can be set, to classify packets from each other, based on port number, protocol followed, IP address etc. It is a method to enforce network security and can be implemented on any Linux kernel
 
 ## Resources Used
 - CentOS Version 8 (It can be implemented on other flavours of Linux and is not restricted to CentOS alone)

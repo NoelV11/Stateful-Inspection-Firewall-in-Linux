@@ -11,7 +11,7 @@ It is implemented using the Iptables framework of Linux. On this framework, syst
 - [The iptables man page](https://linux.die.net/man/8/iptables)
 ## Firewall Chains 
 
-There are few built-in chains that are included in tables. They are:
+There are few built-in chains that are included in tables. They are:-
 
 - INPUT :Traffic Incoming to the firewall-configured machine 
 
